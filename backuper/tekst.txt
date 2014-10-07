@@ -1,0 +1,6 @@
+deliver with quality:
+- epg component I made turned out to be easily maintainable and extendable when I created experimental branch and added new functionalities
+- I comment all unobvious code parts as soon as possible
+
+self-improvement:
+- decided to change EPG model data to ensure both original index data and easy iteration
